@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GangGe
 - 👀 I worked for myself as a international trade business owner, and "fall in love" with coding because the related tech brings efficiency~
-- 🌱 I’m currently learning JS, python and java
+- 🌱 I’m currently learning Python and R for data analysis, and SQL developer for DataBase.
 - 💞️ I’m looking to collaborate on anything that can help me grow
 - 📫 email me: gangwei@usf.edu
 
